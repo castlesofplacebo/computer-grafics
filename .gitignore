@@ -1,0 +1,15 @@
+graph1/.idea/
+graph1/cmake-build-debug/
+graph1/CMakeLists.txt
+
+graph2/.idea/
+graph2/cmake-build-debug/
+graph2/CMakeLists.txt
+
+graph3/.idea/
+graph3/cmake-build-debug/
+graph3/CMakeLists.txt
+
+graph5/.idea/
+graph5/cmake-build-debug/
+graph5/CMakeLists.txt
